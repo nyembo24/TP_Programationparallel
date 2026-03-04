@@ -1,5 +1,6 @@
-# TP_Programationparallel
-# ✍️ Auteurs
+# TP Programmation Parallèle
 
-## 👤 Morisho Nyembo Delphin  
-## 👤 Danniel Muledi
+## ✍️ Auteurs
+
+- 👤 **Morisho Nyembo Delphin**
+- 👤 **Danniel Muledi**
