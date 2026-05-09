@@ -1,11 +1,11 @@
 # TP Programmation Parallèle
 
-## ✍️ Auteurs
+## Auteurs
 
-- 👤 **Morisho Nyembo Delphin**
-- 👤 **Danniel Muledi**
+-  **Morisho Nyembo Delphin**
+-  **Danniel Muledi**
 
-## 📋 Description du logiciel
+## Description du logiciel
 
 Ce projet est un système de chat client-serveur sécurisé développé en Python. Il permet aux utilisateurs d'échanger des messages de manière chiffrée via une interface graphique. Le système supporte trois modes de communication :
 - **Messages privés** : Communication directe entre deux utilisateurs
@@ -14,7 +14,7 @@ Ce projet est un système de chat client-serveur sécurisé développé en Pytho
 
 Le serveur gère les connexions clients, stocke les messages dans une base de données MySQL et assure la sécurité grâce au chiffrement Fernet. L'interface utilisateur est réalisée avec Tkinter pour une expérience conviviale.
 
-## 🔧 Requirements
+## Requirements
 
 - **Python** : Version 3.7 ou supérieure
 - **MySQL** : Serveur MySQL (version 8.0 recommandée)
@@ -22,7 +22,7 @@ Le serveur gère les connexions clients, stocke les messages dans une base de do
   - mysql-connector-python==8.0.33
   - cryptography==41.0.7
 
-## 🚀 Procédure d'installation
+## Procédure d'installation
 
 1. **Cloner le repository** :
    ```bash
